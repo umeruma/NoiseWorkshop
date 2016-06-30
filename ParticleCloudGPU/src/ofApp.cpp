@@ -5,7 +5,7 @@
 void ofApp::setup()
 {
 	//ofSetLogLevel( OF_LOG_VERBOSE );
-	
+//	ofSetVerticalSync(false);
 	ofSetFrameRate( 60 );
 	
 	fontSmall.loadFont("Fonts/DIN.otf", 8 );

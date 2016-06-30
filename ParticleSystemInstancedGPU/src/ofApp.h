@@ -34,7 +34,7 @@ class ofApp : public ofBaseApp
 		ofxPanel				guiLight;
 
 	
-		ofParameter<ofColor>	globalAmbient;
+		ofParameter<ofFloatColor>	globalAmbient;
 
 		ofParameter<ofVec3f>	light1Position;
 		ofParameter<ofColor>	light1Ambient;

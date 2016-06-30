@@ -1,6 +1,8 @@
+ofxAutoReloadedShader
+ofxCv
 ofxGui
 ofxKinect
-ofxOpenCv
-ofxOsc
 ofxMSAOpenCL
 ofxMSAPingPong
+ofxOpenCv
+ofxOsc

@@ -1,6 +1,6 @@
+ofxCv
 ofxGui
+ofxIO
 ofxOpenCv
 ofxOsc
-ofxCv
-ofxIO
 ofxSerial

@@ -66,7 +66,7 @@ class ParticleSystemSpawnTexture
 
 		ofxPanel				guiLightAndMaterial;
 	
-		ofParameter<ofColor>	globalAmbient;
+		ofParameter<ofFloatColor>	globalAmbient;
 
 		ofParameter<ofColor>	light1Ambient;
 		ofParameter<ofColor>	light1Diffuse;
