@@ -1,3 +1,7 @@
+Updated each projects for oF 0.9.3 by @umeruma
+
+---
+
 # Noise Workshop Resonate 2015
 
 The project files for my Noise Workshop at Resonate 2015. 
